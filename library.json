@@ -24,6 +24,7 @@
   ],
   "build": {
     "srcDir": "observable",
+    "includeDir": "observable/include",
     "srcFilter": "+<*> -<examples> -<benchmark>"
   }
 }
