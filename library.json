@@ -21,5 +21,9 @@
   "include": [
     "observable",
     "README.*"
-  ]
+  ],
+  "build": {
+    "srcDir": "observable",
+    "srcFilter": "+<*> -<examples> -<benchmark>"
+  }
 }
