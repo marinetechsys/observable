@@ -1,0 +1,25 @@
+{
+  "name": "observable",
+  "version": "1.0.0",
+  "description": "Write declarative, reactive expressions or just implement the observer pattern.",
+  "keywords": "observer, observable",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/marinetechsys/observable.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Daniel Dinu",
+      "url": "https://github.com/ddinu"
+    }
+  ],
+  "homepage": "https://github.com/ddinu/observable",
+  "frameworks": "*",
+  "platforms": "*",
+  "include": [
+    "observable",
+    "README.*"
+  ]
+}
